@@ -8,6 +8,6 @@ for accounts in accounts:
    else: 
     break()
     
-  else if accoutns.empty{
+  else if accounts.empty{
     print'no account found'
   }
