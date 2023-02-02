@@ -6,8 +6,8 @@ for accounts in accounts:
       export accounts.by(name) from A to Z & 1 to 9
       
    else: 
-    breack()
+    break()
     
   else if accoutns.empty{
-    print'no account foudn'
+    print'no account found'
   }
