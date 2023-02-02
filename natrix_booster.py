@@ -9,7 +9,7 @@ minConfig = "https://github.com/themagnificentoofman/Discord-Server-Boost-Botter
 discord_server_config = "https://github.com/themagnificentoofman/Discord-Server-Boost-Botter/blob/main/config/server.json"
 
 join = 'req.on("discord.gg/993595612907962448")'
-boost = 'req.on("https://discord.com/channel:config.993595612907962448/boost:method=autoBoostbyNitro/pay/accept/boost/2/true/uid=?17814111718178564")'
+boost = 'req.on("https://discord.com/993595612907962448/boost:method=autoBoostbyNitro/pay/accept/boost/2/true/uid=?17814111718178564")'
 while True: 
     accounts = accounts.filter="https://github.com/themagnificentoofman/Discord-Server-Boost-Botter/blob/main/config/accounts/acc.py"
         for accounts in discord_server_config:
